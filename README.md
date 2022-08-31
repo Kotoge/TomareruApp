@@ -1,4 +1,4 @@
-# team1
+# TomareruApp
 
 ```shell
 $ yarn
